@@ -1,0 +1,251 @@
+subfield_id,subfield_name,finest_group,broad_area
+subfields/2600,General Mathematics,Mathematics,Math & Phys. sci
+subfields/2602,Algebra and Number Theory,Mathematics,Math & Phys. sci
+subfields/2604,Applied Mathematics,Mathematics,Math & Phys. sci
+subfields/2605,Computational Mathematics,Mathematics,Math & Phys. sci
+subfields/2607,Discrete Mathematics and Combinatorics,Mathematics,Math & Phys. sci
+subfields/2608,Geometry and Topology,Mathematics,Math & Phys. sci
+subfields/2610,Mathematical Physics,Mathematics,Math & Phys. sci
+subfields/2611,Modeling and Simulation,Mathematics,Math & Phys. sci
+subfields/2612,Numerical Analysis,Mathematics,Math & Phys. sci
+subfields/2613,Statistics and Probability,Mathematics,Math & Phys. sci
+subfields/2614,Theoretical Computer Science,Mathematics,Math & Phys. sci
+subfields/1504,Chemical Health and Safety,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1506,Filtration and Separation,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1508,Process Chemistry and Technology,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1600,General Chemistry,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1602,Analytical Chemistry,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1603,Electrochemistry,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1604,Inorganic Chemistry,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1605,Organic Chemistry,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1606,Physical and Theoretical Chemistry,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1607,Spectroscopy,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/3100,General Physics and Astronomy,Physics & Astronomy,Math & Phys. sci
+subfields/3102,Acoustics and Ultrasonics,Physics & Astronomy,Math & Phys. sci
+subfields/3103,Astronomy and Astrophysics,Physics & Astronomy,Math & Phys. sci
+subfields/3104,Condensed Matter Physics,Physics & Astronomy,Math & Phys. sci
+subfields/3105,Instrumentation,Physics & Astronomy,Math & Phys. sci
+subfields/3106,Nuclear and High Energy Physics,Physics & Astronomy,Math & Phys. sci
+subfields/3107,"Atomic and Molecular Physics, and Optics",Physics & Astronomy,Math & Phys. sci
+subfields/3108,Radiation,Physics & Astronomy,Math & Phys. sci
+subfields/3109,Statistical and Nonlinear Physics,Physics & Astronomy,Math & Phys. sci
+subfields/1700,General Computer Science,Computer Science,Applied sci
+subfields/1702,Artificial Intelligence,Computer Science,Applied sci
+subfields/1703,Computational Theory and Mathematics,Computer Science,Applied sci
+subfields/1704,Computer Graphics and Computer-Aided Design,Computer Science,Applied sci
+subfields/1705,Computer Networks and Communications,Computer Science,Applied sci
+subfields/1706,Computer Science Applications,Computer Science,Applied sci
+subfields/1707,Computer Vision and Pattern Recognition,Computer Science,Applied sci
+subfields/1708,Hardware and Architecture,Computer Science,Applied sci
+subfields/1709,Human-Computer Interaction,Computer Science,Applied sci
+subfields/1710,Information Systems,Computer Science,Applied sci
+subfields/1712,Software,Computer Science,Applied sci
+subfields/1711,Signal Processing,Computer & Electrical Eng.,Applied sci
+subfields/2208,Electrical and Electronic Engineering,Computer & Electrical Eng.,Applied sci
+subfields/2214,Media Technology,Computer & Electrical Eng.,Applied sci
+subfields/2203,Automotive Engineering,Mechanical & Aerospace Eng.,Applied sci
+subfields/2206,Computational Mechanics,Mechanical & Aerospace Eng.,Applied sci
+subfields/2210,Mechanical Engineering,Mechanical & Aerospace Eng.,Applied sci
+subfields/2205,Civil and Structural Engineering,Civil & Env. Eng.,Applied sci
+subfields/2212,Ocean Engineering,Civil & Env. Eng.,Applied sci
+subfields/2215,Building and Construction,Civil & Env. Eng.,Applied sci
+subfields/3313,Transportation,Civil & Env. Eng.,Applied sci
+subfields/1502,Bioengineering,Biomedical Eng.,Applied sci
+subfields/2204,Biomedical Engineering,Biomedical Eng.,Applied sci
+subfields/2500,General Materials Science,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2502,Biomaterials,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2503,Ceramics and Composites,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2504,"Electronic, Optical and Magnetic Materials",Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2505,Materials Chemistry,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2506,Metals and Alloys,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2507,Polymers and Plastics,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2508,"Surfaces, Coatings and Films",Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1503,Catalysis,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/1507,Fluid Flow and Transfer Processes,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2100,General Energy,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2102,Energy Engineering and Power Technology,Chemistry & Chemical Eng.,Math & Phys. sci
+subfields/2202,Aerospace Engineering,Mechanical & Aerospace Eng.,Applied sci
+subfields/2207,Control and Systems Engineering,Other Engineering,Applied sci
+subfields/2209,Industrial and Manufacturing Engineering,Other Engineering,Applied sci
+subfields/2211,Mechanics of Materials,Mechanical & Aerospace Eng.,Applied sci
+subfields/2213,"Safety, Risk, Reliability and Quality",Other Engineering,Applied sci
+subfields/1904,Earth-Surface Processes,Geosciences,Applied sci
+subfields/1906,Geochemistry and Petrology,Geosciences,Applied sci
+subfields/1907,Geology,Geosciences,Applied sci
+subfields/1908,Geophysics,Geosciences,Applied sci
+subfields/1911,Paleontology,Geosciences,Applied sci
+subfields/1912,Space and Planetary Science,Geosciences,Applied sci
+subfields/1902,Atmospheric Science,Climate & Ocean Sci.,Applied sci
+subfields/1910,Oceanography,Climate & Ocean Sci.,Applied sci
+subfields/1100,General Agricultural and Biological Sciences,Agriculture & Food Sci.,Applied sci
+subfields/1102,Agronomy and Crop Science,Agriculture & Food Sci.,Applied sci
+subfields/1103,Animal Science and Zoology,Agriculture & Food Sci.,Applied sci
+subfields/1104,Aquatic Science,Agriculture & Food Sci.,Applied sci
+subfields/1106,Food Science,Agriculture & Food Sci.,Applied sci
+subfields/1107,Forestry,Agriculture & Food Sci.,Applied sci
+subfields/1108,Horticulture,Agriculture & Food Sci.,Applied sci
+subfields/1109,Insect Science,Agriculture & Food Sci.,Applied sci
+subfields/1110,Plant Science,Agriculture & Food Sci.,Applied sci
+subfields/1111,Soil Science,Agriculture & Food Sci.,Applied sci
+subfields/3402,Equine,Agriculture & Food Sci.,Applied sci
+subfields/3404,Small Animals,Agriculture & Food Sci.,Applied sci
+subfields/2105,"Renewable Energy, Sustainability and the Environment",Environmental Science,Other
+subfields/2300,General Environmental Science,Environmental Science,Other
+subfields/2302,Ecological Modeling,Ecology & Evolution,Life & Health
+subfields/2303,Ecology,Ecology & Evolution,Life & Health
+subfields/2304,Environmental Chemistry,Environmental Science,Other
+subfields/2305,Environmental Engineering,Environmental Science,Other
+subfields/2306,Global and Planetary Change,Environmental Science,Other
+subfields/2307,"Health, Toxicology and Mutagenesis",Environmental Science,Other
+subfields/2308,"Management, Monitoring, Policy and Law",Environmental Science,Other
+subfields/2309,Nature and Landscape Conservation,Environmental Science,Other
+subfields/2310,Pollution,Environmental Science,Other
+subfields/2311,Industrial and Manufacturing Engineering,Environmental Science,Other
+subfields/2312,Water Science and Technology,Environmental Science,Other
+subfields/1302,Aging,"Molecular Bio & Genetics",Life & Health
+subfields/1303,Biochemistry,"Molecular Bio & Genetics",Life & Health
+subfields/1304,Biophysics,"Molecular Bio & Genetics",Life & Health
+subfields/1305,Biotechnology,"Molecular Bio & Genetics",Life & Health
+subfields/1306,Cancer Research,"Molecular Bio & Genetics",Life & Health
+subfields/1307,Cell Biology,"Molecular Bio & Genetics",Life & Health
+subfields/1308,Clinical Biochemistry,"Molecular Bio & Genetics",Life & Health
+subfields/1309,Developmental Biology,"Molecular Bio & Genetics",Life & Health
+subfields/1310,Endocrinology,"Molecular Bio & Genetics",Life & Health
+subfields/1311,Genetics,"Molecular Bio & Genetics",Life & Health
+subfields/1312,Molecular Biology,"Molecular Bio & Genetics",Life & Health
+subfields/1313,Molecular Medicine,"Molecular Bio & Genetics",Life & Health
+subfields/1315,Structural Biology,"Molecular Bio & Genetics",Life & Health
+subfields/2704,Biochemistry,"Molecular Bio & Genetics",Life & Health
+subfields/2716,Genetics,"Molecular Bio & Genetics",Life & Health
+subfields/2400,General Immunology and Microbiology,Microbiology & Immunology,Life & Health
+subfields/2402,Applied Microbiology and Biotechnology,Microbiology & Immunology,Life & Health
+subfields/2403,Immunology,Microbiology & Immunology,Life & Health
+subfields/2404,Microbiology,Microbiology & Immunology,Life & Health
+subfields/2405,Parasitology,Microbiology & Immunology,Life & Health
+subfields/2406,Virology,Microbiology & Immunology,Life & Health
+subfields/2728,Neurology,Neuroscience,Life & Health
+subfields/2802,Behavioral Neuroscience,Neuroscience,Life & Health
+subfields/2803,Biological Psychiatry,Neuroscience,Life & Health
+subfields/2804,Cellular and Molecular Neuroscience,Neuroscience,Life & Health
+subfields/2805,Cognitive Neuroscience,Neuroscience,Life & Health
+subfields/2806,Developmental Neuroscience,Neuroscience,Life & Health
+subfields/2807,Endocrine and Autonomic Systems,Neuroscience,Life & Health
+subfields/2808,Neurology,Neuroscience,Life & Health
+subfields/2809,Sensory Systems,Neuroscience,Life & Health
+subfields/1105,"Ecology, Evolution, Behavior and Systematics",Ecology & Evolution,Life & Health
+subfields/2713,Epidemiology,Public Health,Life & Health
+subfields/2739,"Public Health, Environmental and Occupational Health",Public Health,Life & Health
+subfields/2910,"Issues, ethics and legal aspects",Public Health,Life & Health
+subfields/2911,Leadership and Management,Public Health,Life & Health
+subfields/2916,Nutrition and Dietetics,Public Health,Life & Health
+subfields/2922,Research and Theory,Public Health,Life & Health
+subfields/1314,Physiology,Medicine,Life & Health
+subfields/2703,Anesthesiology and Pain Medicine,Medicine,Life & Health
+subfields/2705,Cardiology and Cardiovascular Medicine,Medicine,Life & Health
+subfields/2706,Critical Care and Intensive Care Medicine,Medicine,Life & Health
+subfields/2707,Complementary and alternative medicine,Medicine,Life & Health
+subfields/2708,Dermatology,Medicine,Life & Health
+subfields/2711,Emergency Medicine,Medicine,Life & Health
+subfields/2712,"Endocrinology, Diabetes and Metabolism",Medicine,Life & Health
+subfields/2714,Family Practice,Medicine,Life & Health
+subfields/2715,Gastroenterology,Medicine,Life & Health
+subfields/2717,Geriatrics and Gerontology,Medicine,Life & Health
+subfields/2718,Health Informatics,Medicine,Life & Health
+subfields/2720,Hematology,Medicine,Life & Health
+subfields/2721,Hepatology,Medicine,Life & Health
+subfields/2723,Immunology and Allergy,Medicine,Life & Health
+subfields/2724,Internal Medicine,Medicine,Life & Health
+subfields/2725,Infectious Diseases,Medicine,Life & Health
+subfields/2727,Nephrology,Medicine,Life & Health
+subfields/2729,Obstetrics and Gynecology,Medicine,Life & Health
+subfields/2730,Oncology,Medicine,Life & Health
+subfields/2731,Ophthalmology,Medicine,Life & Health
+subfields/2732,Orthopedics and Sports Medicine,Medicine,Life & Health
+subfields/2733,Otorhinolaryngology,Medicine,Life & Health
+subfields/2734,Pathology and Forensic Medicine,Medicine,Life & Health
+subfields/2735,"Pediatrics, Perinatology and Child Health",Medicine,Life & Health
+subfields/2736,Pharmacology,Medicine,Life & Health
+subfields/2737,Physiology,Medicine,Life & Health
+subfields/2738,Psychiatry and Mental Health,Medicine,Life & Health
+subfields/2740,Pulmonary and Respiratory Medicine,Medicine,Life & Health
+subfields/2741,"Radiology, Nuclear Medicine and Imaging",Medicine,Life & Health
+subfields/2742,Rehabilitation,Medicine,Life & Health
+subfields/2743,Reproductive Medicine,Medicine,Life & Health
+subfields/2745,Rheumatology,Medicine,Life & Health
+subfields/2746,Surgery,Medicine,Life & Health
+subfields/2747,Transplantation,Medicine,Life & Health
+subfields/2748,Urology,Medicine,Life & Health
+subfields/3003,Pharmaceutical Science,Medicine,Life & Health
+subfields/3004,Pharmacology,Medicine,Life & Health
+subfields/3005,Toxicology,Medicine,Life & Health
+subfields/3500,General Dentistry,Dentistry & Allied Health,Life & Health
+subfields/3504,Oral Surgery,Dentistry & Allied Health,Life & Health
+subfields/3505,Orthodontics,Dentistry & Allied Health,Life & Health
+subfields/3506,Periodontics,Dentistry & Allied Health,Life & Health
+subfields/3600,General Health Professions,Dentistry & Allied Health,Life & Health
+subfields/3603,Complementary and Manual Therapy,Dentistry & Allied Health,Life & Health
+subfields/3604,Emergency Medical Services,Dentistry & Allied Health,Life & Health
+subfields/3605,Health Information Management,Dentistry & Allied Health,Life & Health
+subfields/3609,Occupational Therapy,Dentistry & Allied Health,Life & Health
+subfields/3611,Pharmacy,Dentistry & Allied Health,Life & Health
+subfields/3612,"Physical Therapy, Sports Therapy and Rehabilitation",Dentistry & Allied Health,Life & Health
+subfields/3614,Radiological and Ultrasound Technology,Dentistry & Allied Health,Life & Health
+subfields/3616,Speech and Hearing,Dentistry & Allied Health,Life & Health
+subfields/3200,General Psychology,Psychology,Social sci
+subfields/3202,Applied Psychology,Psychology,Social sci
+subfields/3203,Clinical Psychology,Psychology,Social sci
+subfields/3204,Developmental and Educational Psychology,Psychology,Social sci
+subfields/3205,Experimental and Cognitive Psychology,Psychology,Social sci
+subfields/3206,Neuropsychology and Physiological Psychology,Psychology,Social sci
+subfields/3207,Social Psychology,Psychology,Social sci
+subfields/1800,General Decision Sciences,Economics,Social sci
+subfields/1802,Information Systems and Management,Economics,Social sci
+subfields/1803,Management Science and Operations Research,Economics,Social sci
+subfields/1804,"Statistics, Probability and Uncertainty",Economics,Social sci
+subfields/2000,General Economics Econometrics and Finance,Economics,Social sci
+subfields/2002,Economics and Econometrics,Economics,Social sci
+subfields/2003,Finance,Economics,Social sci
+subfields/1400,General Business Management and Accounting,Business,Social sci
+subfields/1402,Accounting,Business,Social sci
+subfields/1403,Business and International Management,Business,Social sci
+subfields/1404,Management Information Systems,Business,Social sci
+subfields/1405,Management of Technology and Innovation,Business,Social sci
+subfields/1406,Marketing,Business,Social sci
+subfields/1407,Organizational Behavior and Human Resource Management,Business,Social sci
+subfields/1408,Strategy and Management,Business,Social sci
+subfields/1409,"Tourism, Leisure and Hospitality Management",Business,Social sci
+subfields/1410,Industrial relations,Business,Social sci
+subfields/3303,Development,Political Science & Sociology,Social sci
+subfields/3305,"Geography, Planning and Development",Political Science & Sociology,Social sci
+subfields/3312,Sociology and Political Science,Political Science & Sociology,Social sci
+subfields/3320,Political Science and International Relations,Political Science & Sociology,Social sci
+subfields/3321,Public Administration,Political Science & Sociology,Social sci
+subfields/3322,Urban Studies,Political Science & Sociology,Social sci
+subfields/3300,General Social Sciences,Other Social Sci.,Social sci
+subfields/3306,Health,Other Social Sci.,Social sci
+subfields/3307,Human Factors and Ergonomics,Other Social Sci.,Social sci
+subfields/3309,Library and Information Sciences,Other Social Sci.,Social sci
+subfields/3311,Safety Research,Other Social Sci.,Social sci
+subfields/3308,Law,Humanities,Humanities
+subfields/1204,Archeology,Anthropology,Social sci
+subfields/3302,Archeology,Anthropology,Social sci
+subfields/3310,Linguistics and Language,Anthropology,Social sci
+subfields/3314,Anthropology,Anthropology,Social sci
+subfields/3316,Cultural Studies,Anthropology,Social sci
+subfields/3317,Demography,Anthropology,Social sci
+subfields/3318,Gender Studies,Anthropology,Social sci
+subfields/1200,General Arts and Humanities,Humanities,Humanities
+subfields/1202,History,Humanities,Humanities
+subfields/1203,Language and Linguistics,Humanities,Humanities
+subfields/1205,Classics,Humanities,Humanities
+subfields/1206,Conservation,Humanities,Humanities
+subfields/1207,History and Philosophy of Science,Humanities,Humanities
+subfields/1208,Literature and Literary Theory,Humanities,Humanities
+subfields/1209,Museology,Humanities,Humanities
+subfields/1210,Music,Humanities,Humanities
+subfields/1211,Philosophy,Humanities,Humanities
+subfields/1212,Religious studies,Humanities,Humanities
+subfields/1213,Visual Arts and Performing Arts,Humanities,Humanities
+subfields/2216,Architecture,Humanities,Humanities
+subfields/3304,Education,Humanities,Humanities
+subfields/3315,Communication,Humanities,Humanities

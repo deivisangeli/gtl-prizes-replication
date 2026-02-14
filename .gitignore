@@ -1,0 +1,25 @@
+# R
+.Rhistory
+.Rproj.user
+.RData
+.Rproj
+
+# renv
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+
+# Output (generated files — can be regenerated)
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
