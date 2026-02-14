@@ -95,8 +95,10 @@ if (dir.exists(expected_dir)) {
     fname <- basename(ref)
     generated <- file.path("output/tables", fname)
     if (file.exists(generated)) {
-      ref_content <- readLines(ref)
-      gen_content <- readLines(generated)
+      # Filter out comment/timestamp lines before comparing
+      strip_comments <- function(x) x[!grepl("^\\s*%", x)]
+      ref_content <- strip_comments(readLines(ref))
+      gen_content <- strip_comments(readLines(generated))
       matches <- identical(ref_content, gen_content)
       check(sprintf("Diff test: %s matches expected", fname), matches)
     } else {
