@@ -58,11 +58,11 @@ Rscript tests/test_outputs.R
 | `mainPrizeList_pre-imputation.xlsx` | Prize list before OLS imputation of missing ratings | Authors' compilation |
 | `nsf2023.xlsx` | US doctoral degrees by field (2023) | NSF Survey of Earned Doctorates |
 | `2022budgetByField.xlsx` | US federal R&D budget by field (2022) | NSF NCSES |
-| `all_winners_with_plotFinestField.csv` | Individual prize winners 2015-2024 with OpenAlex field assignments | Authors' collection from prize websites + OpenAlex API |
-| `subfield_to_finest_group.csv` | Mapping from OpenAlex subfields to finest field groups | Authors |
-| `nsf_field_to_finest_group.csv` | Mapping from NSF doctorate fields to finest field groups | Authors |
-| `vs_academics_by_finest_group.csv` | Count of "very senior" academics by field (OpenAlex) | OpenAlex API |
-| `authors_by_finest_group.csv` | Count of active researchers by field (OpenAlex) | OpenAlex API |
+| `all_winners_with_plotFinestField.csv` | Individual prize winners 2015-2024 with field assignments | Authors' collection from prize websites + OpenAlex API |
+| `subfield_to_finest_group.csv` | Mapping from OpenAlex subfields to field groups | Authors |
+| `nsf_field_to_finest_group.csv` | Mapping from NSF doctorate fields to field groups | Authors |
+| `vs_academics_by_finest_group.csv` | Count of senior research academics by field | OpenAlex API |
+| `authors_by_finest_group.csv` | Count of active researchers by field | OpenAlex API |
 
 ## Software Requirements
 
